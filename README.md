@@ -1,5 +1,3 @@
-# MyDataScienceJourney
-
 # Data Scientist
 
 ### Education
