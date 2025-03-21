@@ -1,10 +1,10 @@
 # Data Scientist
 
-#### Technical Skills: Python, PowerBI, Excel, SQL. 
+#### Technical Skills: Python, PowerBI, Excel, and SQL. 
 
 ## Education
                            
-- M.S., Energy Engineering | The Universite Abou Bekr Belkaid (_May 2024_)                                                         
+- M.S., Energy Engineering | Universite Abou Bekr Belkaid (_May 2024_)                                                         
 - B.Eng., Electrical and Electronics Engineering | Federal University of Agriculture, Abeokuta (_May 2019_)
 
 ## Work Experience
