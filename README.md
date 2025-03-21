@@ -17,8 +17,8 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication]
+### Attrition Analysis
+[[Publication]](https://colab.research.google.com/drive/172zJ7zqoH-ETwLVs4C9_zuQhTvbf0eoT)
 
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
