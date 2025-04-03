@@ -1,4 +1,9 @@
 # Data Scientist
+I am an engineer with a background in power systems operations, maintenance, and data analytics. My expertise includes Microsoft Office applications, Power BI, PostgreSQL, and Python programming, with a strong passion for leveraging data-driven insights to support sustainable energy solutions.
+Recently, I completed a Data Science course on DataCamp, where I worked on a capstone project applying machine learning, drawing insights from data and analytics techniques. This experience has strengthened my ability to extract insights from data and make informed decisions.
+I am looking for a volunteer opportunity that allows me to apply my technical and analytical skills in energy and sustainability projects. Ideally, I would like to collaborate on initiatives involving data-driven decision-making, energy efficiency, renewable energy research, or electricity distribution, but I am open to other projects as well. I am available to contribute a minimum of 12 hours per week.
+While my primary goal is to gain valuable experience and contribute meaningfully through volunteering, I appreciate any form of encouragement or recognition from those I collaborate with, whether through mentorship, learning opportunities, or gestures of appreciation
+
 
 #### Technical Skills: Python, PowerBI, Excel, and SQL. 
 
